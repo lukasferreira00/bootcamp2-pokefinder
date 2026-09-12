@@ -36,4 +36,4 @@ O PokéFinder é uma aplicação web que permite pesquisar Pokémon pelo nome ou
 ## Links
 
 - **Aplicação no ar (GitHub Pages): file:///C:/Users/Lukas%20Ferreira/Documents/Bootcamp2-pokefinder/index.html
-- **Repositório:** URL_DO_REPOSITORIO
+- **Repositório:** https://github.com/lukasferreira00/bootcamp2-pokefinder
